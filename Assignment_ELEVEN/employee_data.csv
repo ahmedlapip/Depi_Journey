@@ -1,0 +1,11 @@
+EmployeeID,Name,DepartmentID,Salary,SupervisorID
+1,Cheyenne Padilla,5,"$96,438",
+2,Michael Martin,5,"$105,519",6.0
+3,Tim Wright,4,"$103,883",5.0
+4,Kristy Archer,2,"$111,213",1.0
+5,Robert Rios,4,"$145,561",3.0
+6,Gregory Casey,4,"$57,100",3.0
+7,Douglas Huber,2,"$138,259",3.0
+8,Bobby Browning,1,"$135,649",8.0
+9,Crystal Wilson,1,"$134,696",7.0
+10,Tammy Adams,4,"$62,899",2.0

@@ -1,0 +1,11 @@
+,EmployeeID,Name,DepartmentID,Salary,SupervisorID
+0,1,Cheyenne Padilla,5,96438,0
+1,2,Michael Martin,5,105519,6
+2,3,Tim Wright,4,103883,5
+3,4,Kristy Archer,2,111213,1
+4,5,Robert Rios,4,145561,3
+5,6,Gregory Casey,4,57100,3
+6,7,Douglas Huber,2,138259,3
+7,8,Bobby Browning,1,135649,8
+8,9,Crystal Wilson,1,134696,7
+9,10,Tammy Adams,4,62899,2
